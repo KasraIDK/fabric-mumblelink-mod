@@ -3,7 +3,7 @@
 [![](http://cf.way2muchnoise.eu/packs/short_mumble-link-fabric.svg)](https://minecraft.curseforge.com/projects/mumble-link-fabric)
 
 # fabric-mumblelink-mod
-A Fabric mod that connects to the Mumble Link plugin.
+A Fabric mod that connects to the Mumble Link plugin..
 
 Current features:
 * Positional audio link to Mumble
